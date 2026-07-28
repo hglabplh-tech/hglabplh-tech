@@ -39,7 +39,7 @@ My work in the freeware AREA:
 - and test execution in Clojure (supporting Java, Clojure, Scala, Kotlin, and Python testing). Also, performance tests and integration into a CD/CI chain will be possible.
 - Scheme 48 development for the interpreter itself
 - A SECD implementation in Racket
-- AI projects in Python
+- AI projects in Python. Especially for ASAG, NLP, mBert, Text generation and Hybrid Search with fulltext(BM25) and BERT.
 - A PL/ 1 open source compiler in Python
 - many more...
 
