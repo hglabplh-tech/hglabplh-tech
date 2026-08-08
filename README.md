@@ -1,5 +1,11 @@
 ### About me (Harald Glab-Plhak)
 
+####Notes
+Will be happy if you visit: 
+https://github.com/hglabplh-tech/EnterprisePrivacyAI42
+and
+https://github.com/hglabplh-tech/YATestEnvironment
+
 #### Welcome to my GitHub Projects.
 
 I started Informatics with BASIC, 8086 Assembler and Pascal on a 'very fast' DOS computer. What I like to do is work as a technical Consultant and Developer (System Architect).
