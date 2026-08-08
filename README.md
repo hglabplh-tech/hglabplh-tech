@@ -2,9 +2,8 @@
 
 #### Notes
 Will be happy if you visit: 
-[A Python Privacy AI Middleware](https://github.com/hglabplh-tech/EnterprisePrivacyAI42)
-and
-[Yet Another Test Environment. Reflect Languages and build tests and generate data](https://github.com/hglabplh-tech/YATestEnvironment)
+- [A Python Privacy AI Middleware](https://github.com/hglabplh-tech/EnterprisePrivacyAI42)
+- [Yet Another Test Environment. Reflect Languages and build tests and generate data](https://github.com/hglabplh-tech/YATestEnvironment)
 
 #### Welcome to my GitHub Projects.
 
