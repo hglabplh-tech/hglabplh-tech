@@ -5,10 +5,12 @@ Will be happy if you visit:
 - [A Python Privacy AI Middleware](https://github.com/hglabplh-tech/EnterprisePrivacyAI42)
 - [Yet Another Test Environment. Reflect Languages and build tests and generate data](https://github.com/hglabplh-tech/YATestEnvironment)
 
+Especially in the projects above, but also in general, I am happy if developers are willing to contribute if they have an interest in these areas.
+
 #### Welcome to my GitHub Projects.
 
 I started Informatics with BASIC, 8086 Assembler, and Pascal on a 'very fast' DOS computer. What I like to do is work as a technical Consultant and Developer (System Architect).
-I think education should be free for everyone, so I have projects planned for productive use as well as for learning. 
+I think education should be free for everyone, so I have projects planned for both productive use and learning. 
 I am trying hard to document my work in the projects and add comments so the code is readable and easy to understand.
 Born in 1966, I studied Informatics at ADV Böblingen in the early 90's.
 The projects I worked on and my education.
@@ -40,11 +42,12 @@ After that, I worked on ImageMaster design and development (ImageMaster is an EC
 - In between, I worked on an HR application for Daimler-Benz and as Test Manager for an HR application for T-Systems
 
 My work in the freeware AREA:
+- NEW: self-hostable Python middleware for making enterprise data searchable and AI-accessible without making operational Sources of Truth directly searchable. The project combines enterprise data integration, fine-grained authorization, segmented, and incrementally refreshable cache
 - A testing project (reflect Code, generate tests for the functions, generate data,
 and test execution in Clojure (supporting Java, Clojure, Scala, Kotlin, and Python testing). Also, performance tests and integration into a CD/CI chain will be possible.
 - Scheme 48 development for the interpreter itself
 - A SECD implementation in Racket
-- AI projects in Python. Especially for ASAG, NLP, mBert, Text generation and Hybrid Search with fulltext(BM25) and BERT.
+- AI projects in Python. Especially for ASAG, NLP, mBERT, Text generation, and Hybrid Search with fulltext (BM25) and BERT.
 - A PL/ 1 open source compiler in Python
 - many more...
 
