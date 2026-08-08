@@ -1,7 +1,7 @@
 
 ### My Page on GitHub.io
- [My Project Page / all times in change](https://github.com/hglabplh-tech/index.html)
-
+ [My Project Page / all times in change](https://hglabplh-tech.github.io))
+ 
 ### Notes
 Will be happy if you visit: 
 - [A Python Privacy AI Middleware](https://github.com/hglabplh-tech/EnterprisePrivacyAI42)
