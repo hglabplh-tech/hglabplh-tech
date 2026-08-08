@@ -2,7 +2,7 @@
 
 ####Notes
 Will be happy if you visit: 
-[A Python Privacy AI Middleware]:https://github.com/hglabplh-tech/EnterprisePrivacyAI42
+[A Python Privacy AI Middleware]:[https://github.com/hglabplh-tech/EnterprisePrivacyAI42]
 and
 https://github.com/hglabplh-tech/YATestEnvironment
 
