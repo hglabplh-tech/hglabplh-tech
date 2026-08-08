@@ -4,11 +4,11 @@
 Will be happy if you visit: 
 [A Python Privacy AI Middleware](https://github.com/hglabplh-tech/EnterprisePrivacyAI42)
 and
-https://github.com/hglabplh-tech/YATestEnvironment
+[Yet Another Test Environment. Reflect Languages and build tests and generate data](https://github.com/hglabplh-tech/YATestEnvironment)
 
 #### Welcome to my GitHub Projects.
 
-I started Informatics with BASIC, 8086 Assembler and Pascal on a 'very fast' DOS computer. What I like to do is work as a technical Consultant and Developer (System Architect).
+I started Informatics with BASIC, 8086 Assembler, and Pascal on a 'very fast' DOS computer. What I like to do is work as a technical Consultant and Developer (System Architect).
 I think education should be free for everyone, so I have projects planned for productive use as well as for learning. 
 I am trying hard to document my work in the projects and add comments so the code is readable and easy to understand.
 Born in 1966, I studied Informatics at ADV Böblingen in the early 90's.
